@@ -9,7 +9,7 @@ mon_troisieme_tuple = (1, 2)
 mon_quatrieme_tuple = 1, 2
 
 
-# unpacking 
+# unpacking
 a, b = mon_troisieme_tuple
 print(a, b)
 

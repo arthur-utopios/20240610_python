@@ -1,0 +1,13 @@
+{
+    "clé 1": "valeur",
+    "clé 2": "valeur",
+    "clé 3": "valeur",
+    "clé 4": "valeur",
+    "clé d'un tableau":[
+        "valeur 1",
+        1,
+        null,
+        true,
+        false
+    ]
+}

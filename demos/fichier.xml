@@ -1,0 +1,8 @@
+<main>
+    <clé1>valeur</clé1>
+    <clé2>valeur</clé2>
+    <clé2>valeur</clé2>
+    <clé2>valeur</clé2>
+    <clé2 value="valeur"/>
+    <clé2 argument="valeur"/>
+</main>
