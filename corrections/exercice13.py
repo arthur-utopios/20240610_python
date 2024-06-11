@@ -42,5 +42,6 @@ def main() -> None:
 
     print(f"Dans la chaine '{chaine}' il y a {proportion:0.2f}% de la séquence '{sequence}'")
 
-main()
+if __name__ == '__main__':
+    main()
 
